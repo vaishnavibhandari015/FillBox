@@ -1,0 +1,60 @@
+body{
+    background-color: gray;
+}
+.container {
+    height: 600px;
+    width: 500px;
+    border-style: solid;
+    margin: 0;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}
+
+.button{
+
+margin: 0;
+position: absolute;
+left: 30%;
+top: 5%;
+padding: 15px 32px;
+background-color: red;
+border: none;
+}
+
+.button1{
+margin: 0;
+position: absolute;
+left: 37%;
+top: 5%;
+padding: 15px 32px;
+background-color: blue;
+border: none;
+}
+.button2{
+margin: 0;
+position: absolute;
+left: 44%;
+top: 5%;
+padding: 15px 32px;
+background-color: yellow;
+border: none;
+}
+.button3{
+margin: 0;
+position: absolute;
+left: 51%;
+top: 5%;
+padding: 15px 32px;
+background-color: white;
+border: none;
+}
+.button4{
+margin: 0;
+position: absolute;
+left: 58%;
+top: 5%;
+padding: 15px 32px;
+background-color: violet;
+border: none;
+}
